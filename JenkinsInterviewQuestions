@@ -1,0 +1,8 @@
+How do you configure the job in Jenkins?
+How will you handle secrets in the pipeline?
+What is the purpose of Jenkins Shared Libraries?
+How can you schedule periodic jobs in Jenkins pipelines?
+Which Jenkins feature can you use to trigger builds automatically when changes are pushed to a specific branch in a version control repository?
+What is the purpose of the Jenkins Matrix Authorization Strategy plugin?
+How can you ensure that code changes are tested before they are merged into the main branch?
+Explain the concept of "Chaos Engineering" in the context of CI/CD pipelines. How can you incorporate Chaos Engineering practices into your pipeline?
